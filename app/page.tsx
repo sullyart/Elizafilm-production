@@ -9,5 +9,21 @@ import Gallery from "@/components/sections/GallerySection";
 import { Testimonials, Partners } from "@/components/sections/Testimonials";
 import News from "@/components/sections/LatestNewsSection";
 export default function Page() {
-  return (<><Header /><main><Hero /><Work /><Services /><Enquiry /><ControlRoom /><StudioSpace /><Gallery /><Testimonials /><Partners /><News /></main><Footer /></>);
+  return (
+    <>
+      <Header />
+      <main>
+        <Hero />
+        <Work />
+        <Services />
+        <Enquiry />
+        <ControlRoom />
+        <StudioSpace />
+        <Gallery />
+        <Testimonials />
+        <Partners />
+        <News />
+      </main>
+    </>
+  );
 }
