@@ -3,10 +3,8 @@ export const site = {
   name: "ELIZA FILM PRODUCTION",
   short: "ELIZA FILM",
   tagline: "Video production, live performance recording and studio rental.",
-  email: "hello@elizafilm.example",
-  phone: "+1 (555) 010-0123",
-  phoneHref: "+15550100123",
-  address: "123 Placeholder Street, Your City, ST 00000",
+  email: "elizafilmsproduction@tvstar.com",
+  address: "2023 Crinella Drive Petaluma California 94954",
   // Change this to relocate the map (OpenStreetMap embed, no API key needed)
   map: { lat: 36.1627, lon: -86.7816, zoom: 11 },
   social: [

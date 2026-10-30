@@ -62,21 +62,7 @@ export default function ContactPage() {
                   href="mailto:hello@framehousestudios.com"
                   className="mt-2 block text-sm text-neutral-500 hover:text-black"
                 >
-                  hello@framehousestudios.com
-                </a>
-              </div>
-            </div>
-
-            <div className="flex gap-4">
-              <Phone size={20} strokeWidth={1.4} />
-
-              <div>
-                <p className="text-xs uppercase tracking-wider">Phone</p>
-                <a
-                  href="tel:+10000000000"
-                  className="mt-2 block text-sm text-neutral-500 hover:text-black"
-                >
-                  Add your studio phone number
+                  elizafilmsproduction@tvstar.com
                 </a>
               </div>
             </div>
@@ -87,7 +73,7 @@ export default function ContactPage() {
               <div>
                 <p className="text-xs uppercase tracking-wider">Studio</p>
                 <p className="mt-2 text-sm text-neutral-500">
-                  Add your studio location
+                  2023 Crinella Drive Petaluma California 94954
                 </p>
               </div>
             </div>
